@@ -75,7 +75,7 @@ This project is a full-stack web application where users can send interest messa
    python manage.py runserver
    ```
 
-### Frontend Setup (React)
+### Frontend Setup (React) --> link https://github.com/SelvaganapathiMani/interest-messaging-frontend
 
 1. **Navigate to the frontend directory**:
 
